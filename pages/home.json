@@ -2,15 +2,13 @@
   "meta": {
     "title": "Prayaan Capital — MSME Loans in South India",
     "description": "Fast, fair, and transparent business loans for MSMEs in Tamil Nadu, Andhra Pradesh, and Telangana. RBI Registered NBFC.",
-    "ogImage": "/assets/images/hero/homepage-hero.jpg"
+    "ogImage": "/assets/images/hero/homepage-hero.png"
   },
   "sections": [
     {
       "type": "Hero",
       "headline": "Empowering MSMEs Across South India",
       "subheadline": "Fast, fair, and transparent business loans for micro and small enterprises in Tamil Nadu, Andhra Pradesh and Telangana.",
-      "backgroundImage": "/assets/images/hero/homepage-hero.jpg",
-      "badge": "RBI Registered NBFC",
       "ctaPrimary": {
         "label": "Apply Now",
         "href": "/apply"
@@ -18,7 +16,9 @@
       "ctaSecondary": {
         "label": "Check Eligibility",
         "href": "/tools/eligibility"
-      }
+      },
+      "backgroundImage": "/assets/images/hero/homepage-hero.png",
+      "badge": "RBI Registered NBFC"
     },
     {
       "type": "TrustStrip",
@@ -44,13 +44,15 @@
     {
       "type": "ProductsGrid",
       "headline": "Loan Products Built for MSMEs",
-      "subheadline": "Designed for the realities of semi-urban and urban businesses",
+      "subheadline": "Two focused product lines — working capital and long-term growth financing",
+      "limit": 2,
       "products": [
         {
           "title": "Secured Business Loans",
           "description": "For MSMEs in manufacturing, trading, and services — micro and small segment focus.",
           "interestRange": "16% – 24% p.a.",
           "tenureRange": "12 – 60 months",
+          "loanRange": "₹5L – ₹50L",
           "icon": "/assets/images/products/secured-loan.png",
           "href": "/products/secured-business-loans"
         },
@@ -59,14 +61,18 @@
           "description": "Long-term loans secured by commercial or residential property.",
           "interestRange": "14% – 20% p.a.",
           "tenureRange": "36 – 120 months",
+          "loanRange": "₹25L – ₹2Cr",
           "icon": "/assets/images/products/lap.png",
           "href": "/products/lap-financing"
         }
-      ]
+      ],
+      "ctaLabel": "View All Products",
+      "ctaHref": "/products"
     },
     {
       "type": "WhyPrayaan",
       "headline": "Why MSMEs Choose Prayaan Capital",
+      "limit": 4,
       "differentiators": [
         {
           "icon": "handshake",
@@ -98,12 +104,26 @@
           "title": "Reasonable Cost",
           "body": "Competitive rates benchmarked to market standards."
         }
-      ]
+      ],
+      "ctaLabel": "Why Prayaan Capital",
+      "ctaHref": "/why-prayaan"
+    },
+    {
+      "type": "SuccessStories",
+      "headline": "MSMEs Who Grew with Prayaan",
+      "subheadline": "Real businesses. Real growth. Real people.",
+      "source": "success-stories",
+      "limit": 4,
+      "variant": "carousel",
+      "autoScrollInterval": 4000,
+      "ctaLabel": "See All Stories",
+      "ctaHref": "/success-stories"
     },
     {
       "type": "TechnologySection",
       "headline": "AI-Native Lending Platform",
       "subheadline": "Technology that makes credit faster, fairer, and more accessible",
+      "limit": 4,
       "features": [
         {
           "title": "Instant Pre-screening",
@@ -122,49 +142,15 @@
           "body": "Application status updates at every stage."
         }
       ],
-      "ctaLabel": "Explore Our Technology",
+      "ctaLabel": "Explore Our Platform",
       "ctaHref": "/technology"
-    },
-    {
-      "type": "SuccessStories",
-      "headline": "MSMEs Who Grew with Prayaan",
-      "stories": [
-        {
-          "name": "Ravi Kumar",
-          "business": "Steel Fabrication, Coimbatore",
-          "quote": "I got my working capital loan approved in 3 days. The process was simple and the team was always available.",
-          "loanAmount": "₹25 Lakhs",
-          "photo": "/assets/images/team/success-ravi.jpg"
-        },
-        {
-          "name": "Meena Sundaram",
-          "business": "Textile Trader, Tirupur",
-          "quote": "As a woman entrepreneur, I was worried about getting credit. Prayaan made it straightforward and respectful.",
-          "loanAmount": "₹12 Lakhs",
-          "photo": "/assets/images/team/success-meena.jpg"
-        },
-        {
-          "name": "Venkat Reddy",
-          "business": "Pharma Distributor, Hyderabad",
-          "quote": "The LAP financing helped me expand my warehouse. Competitive rates and no surprises in the fine print.",
-          "loanAmount": "₹80 Lakhs",
-          "photo": "/assets/images/team/success-venkat.jpg"
-        }
-      ]
     },
     {
       "type": "LeadershipGrid",
       "headline": "Leadership You Can Trust",
       "subheadline": "Experienced bankers and technologists driving financial inclusion",
-      "members": [
-        {
-          "name": "Director Name",
-          "designation": "Managing Director & CEO",
-          "bio": "30+ years in NBFC and banking across South India.",
-          "photo": "/assets/images/team/director-placeholder.jpg",
-          "linkedin": ""
-        }
-      ],
+      "source": "leadership",
+      "limit": 3,
       "ctaLabel": "Meet the Full Team",
       "ctaHref": "/leadership"
     },
@@ -194,6 +180,22 @@
       "ctaHref": "/investors"
     },
     {
+      "type": "NewsGrid",
+      "headline": "Latest from Prayaan Capital",
+      "source": "news-press-releases",
+      "limit": 3,
+      "ctaLabel": "View All News",
+      "ctaHref": "/news"
+    },
+    {
+      "type": "FAQSection",
+      "headline": "Common Questions",
+      "source": "faq",
+      "limit": 4,
+      "ctaLabel": "View All FAQs",
+      "ctaHref": "/faq"
+    },
+    {
       "type": "CTABanner",
       "headline": "Ready to Grow Your Business?",
       "subheadline": "Apply for a loan in minutes. Get a decision in 48 hours.",
@@ -201,11 +203,11 @@
         "label": "Apply Now",
         "href": "/apply"
       },
-      "bgColor": "teal",
       "ctaSecondary": {
         "label": "Find a Branch",
         "href": "/branches"
-      }
+      },
+      "bgColor": "teal"
     }
   ]
 }
