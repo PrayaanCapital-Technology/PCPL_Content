@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "Partnerships | Prayaan Capital",
+    "description": "Business, technology, and data partners of Prayaan Capital.",
+    "ogImage": "/assets/images/hero/partnerships-hero.jpg"
+  },
+  "sections": [
+    {
+      "type": "Hero",
+      "headline": "Our Partners",
+      "subheadline": "The business, technology, and data ecosystem powering Prayaan Capital.",
+      "backgroundImage": "/assets/images/hero/partnerships-hero.jpg"
+    },
+    {
+      "type": "ProductsGrid",
+      "headline": "Business Partners",
+      "subheadline": "Co-lending, distribution, and referral partners",
+      "products": [
+        {
+          "title": "Partner Name 1",
+          "description": "Co-lending partner — priority sector lending.",
+          "logo": "/assets/images/partners/partner-1.svg",
+          "href": "#"
+        },
+        {
+          "title": "Partner Name 2",
+          "description": "BC / DSA distribution partner — Tamil Nadu.",
+          "logo": "/assets/images/partners/partner-2.svg",
+          "href": "#"
+        }
+      ]
+    },
+    {
+      "type": "ProductsGrid",
+      "headline": "Technology Partners",
+      "products": [
+        {
+          "title": "Tech Partner 1",
+          "description": "KYC & eSign platform.",
+          "logo": "/assets/images/partners/tech-1.svg",
+          "href": "#"
+        },
+        {
+          "title": "Tech Partner 2",
+          "description": "Cloud infrastructure.",
+          "logo": "/assets/images/partners/tech-2.svg",
+          "href": "#"
+        },
+        {
+          "title": "Tech Partner 3",
+          "description": "Payment & NACH gateway.",
+          "logo": "/assets/images/partners/tech-3.svg",
+          "href": "#"
+        }
+      ]
+    },
+    {
+      "type": "ProductsGrid",
+      "headline": "Data & Bureau Partners",
+      "products": [
+        {
+          "title": "CIBIL",
+          "description": "Credit bureau — individual and commercial.",
+          "logo": "/assets/images/partners/cibil.svg",
+          "href": "#"
+        },
+        {
+          "title": "Experian",
+          "description": "Credit bureau partner.",
+          "logo": "/assets/images/partners/experian.svg",
+          "href": "#"
+        },
+        {
+          "title": "CRIF",
+          "description": "Commercial bureau data.",
+          "logo": "/assets/images/partners/crif.svg",
+          "href": "#"
+        },
+        {
+          "title": "GST Suvidha",
+          "description": "GST data for underwriting.",
+          "logo": "/assets/images/partners/gst.svg",
+          "href": "#"
+        }
+      ]
+    },
+    {
+      "type": "CTABanner",
+      "headline": "Interested in Partnering with Us?",
+      "subheadline": "BC, DSA, co-lending, or technology partnerships — let's talk.",
+      "ctaPrimary": {
+        "label": "Get in Touch",
+        "href": "/contact"
+      },
+      "bgColor": "teal"
+    }
+  ]
+}

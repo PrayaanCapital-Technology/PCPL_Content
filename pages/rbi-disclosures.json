@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "title": "RBI Disclosures | Prayaan Capital",
+    "description": "Mandatory RBI disclosures for Prayaan Capital — NBFC registration, policies, and regulatory compliance.",
+    "ogImage": "/assets/images/hero/compliance-hero.jpg"
+  },
+  "sections": [
+    {
+      "type": "Hero",
+      "headline": "RBI Disclosures",
+      "subheadline": "Mandatory disclosures as required by the Reserve Bank of India.",
+      "backgroundImage": "/assets/images/hero/compliance-hero.jpg"
+    },
+    {
+      "type": "ComplianceTable",
+      "headline": "NBFC Registration Details",
+      "rows": [
+        {
+          "field": "Company Name",
+          "value": "Prayaan Capital Private Limited"
+        },
+        {
+          "field": "CIN",
+          "value": "XXXXXXXXXXXXXXXXX"
+        },
+        {
+          "field": "RBI Registration Number",
+          "value": "N-XX.XXXXX.XXXXX"
+        },
+        {
+          "field": "Date of Registration",
+          "value": "DD MMM YYYY"
+        },
+        {
+          "field": "Registered Address",
+          "value": "Head Office Address, Chennai – 600XXX, Tamil Nadu"
+        },
+        {
+          "field": "Category",
+          "value": "NBFC — Non-Deposit Taking"
+        },
+        {
+          "field": "Principal Business",
+          "value": "Lending"
+        }
+      ]
+    },
+    {
+      "type": "DownloadsGrid",
+      "headline": "Regulatory Documents",
+      "files": [
+        {
+          "title": "RBI Certificate of Registration",
+          "type": "PDF",
+          "href": "/assets/docs/rbi-certificates/rbi-cor.pdf"
+        },
+        {
+          "title": "KYC Policy",
+          "type": "PDF",
+          "href": "/assets/docs/rbi-certificates/kyc-policy.pdf"
+        },
+        {
+          "title": "Recovery Policy",
+          "type": "PDF",
+          "href": "/assets/docs/rbi-certificates/recovery-policy.pdf"
+        }
+      ]
+    },
+    {
+      "type": "ComplianceTable",
+      "headline": "Compliance Links",
+      "rows": [
+        {
+          "field": "Fair Practice Code",
+          "value": "View",
+          "href": "/fair-practice-code"
+        },
+        {
+          "field": "Grievance Redressal",
+          "value": "View",
+          "href": "/grievance"
+        },
+        {
+          "field": "Interest Rate Policy",
+          "value": "View",
+          "href": "/interest-rate-policy"
+        },
+        {
+          "field": "Privacy Policy",
+          "value": "View",
+          "href": "/privacy-policy"
+        },
+        {
+          "field": "Terms & Conditions",
+          "value": "View",
+          "href": "/terms"
+        }
+      ]
+    }
+  ]
+}

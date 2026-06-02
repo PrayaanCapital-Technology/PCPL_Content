@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "title": "Raise a Grievance | Prayaan Capital",
+    "description": "Submit a customer grievance to Prayaan Capital. We respond within 7 working days.",
+    "ogImage": "/assets/images/hero/grievance-hero.jpg"
+  },
+  "sections": [
+    {
+      "type": "Hero",
+      "headline": "We Take Every Complaint Seriously",
+      "subheadline": "Your grievance will be acknowledged within 48 hours and resolved within 7 working days.",
+      "backgroundImage": "/assets/images/hero/grievance-hero.jpg"
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "text-left",
+      "headline": "How to Raise a Grievance",
+      "body": "Submit via this page, by email, or visit your nearest branch. For the full Grievance Redressal Policy see /grievance.",
+      "ctaLabel": "Full Grievance Policy",
+      "ctaHref": "/grievance"
+    },
+    {
+      "type": "GrievanceForm",
+      "headline": "Submit Your Grievance",
+      "fields": [
+        {
+          "name": "name",
+          "label": "Full Name",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "loanAccount",
+          "label": "Loan Account No.",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "phone",
+          "label": "Registered Mobile",
+          "type": "tel",
+          "required": true
+        },
+        {
+          "name": "category",
+          "label": "Grievance Category",
+          "type": "select",
+          "required": true,
+          "options": [
+            "EMI / Payment Issue",
+            "Incorrect Charges",
+            "Staff Behaviour",
+            "Document Issue",
+            "Foreclosure",
+            "Other"
+          ]
+        },
+        {
+          "name": "description",
+          "label": "Description",
+          "type": "textarea",
+          "required": true
+        }
+      ],
+      "submitLabel": "Submit Grievance",
+      "successRedirect": "/thank-you",
+      "slaNote": "Acknowledged in 48 hours. Resolved within 7 working days."
+    }
+  ]
+}

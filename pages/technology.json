@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "title": "Technology | Prayaan Capital",
+    "description": "Prayaan Capital's AI-native lending platform — smarter credit decisions, faster disbursals, and better borrower outcomes.",
+    "ogImage": "/assets/images/hero/technology-hero.jpg"
+  },
+  "sections": [
+    {
+      "type": "Hero",
+      "headline": "AI-Native Lending Platform",
+      "subheadline": "Technology built from the ground up for MSME credit in South India.",
+      "backgroundImage": "/assets/images/hero/technology-hero.jpg"
+    },
+    {
+      "type": "TechnologySection",
+      "headline": "What Powers Our Platform",
+      "features": [
+        {
+          "title": "Instant Pre-screening",
+          "body": "AI-powered eligibility assessment in under 2 minutes using business and individual data signals."
+        },
+        {
+          "title": "Digital KYC",
+          "body": "Aadhaar-based eKYC and PAN verification with secure, encrypted data handling."
+        },
+        {
+          "title": "Alternative Data Underwriting",
+          "body": "Bank statement analysis, GST data, and bureau signals for more accurate thin-file credit decisions."
+        },
+        {
+          "title": "Real-time Application Tracking",
+          "body": "Borrowers get live status updates at every stage of the loan lifecycle."
+        },
+        {
+          "title": "Automated Disbursement",
+          "body": "Straight-through processing for approved cases — no manual intervention needed."
+        },
+        {
+          "title": "Collections Intelligence",
+          "body": "Predictive models identify at-risk accounts early for proactive relationship management."
+        }
+      ]
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "text-right",
+      "headline": "Security & Compliance",
+      "bullets": [
+        {
+          "title": "Data Residency",
+          "body": "All data stored in India on RBI-compliant cloud infrastructure."
+        },
+        {
+          "title": "Encryption",
+          "body": "256-bit SSL in transit; AES-256 at rest."
+        },
+        {
+          "title": "Access Control",
+          "body": "Role-based access with full audit trail."
+        },
+        {
+          "title": "Audit & Testing",
+          "body": "Quarterly penetration testing and annual IS audit."
+        }
+      ]
+    },
+    {
+      "type": "CTABanner",
+      "headline": "Join Our Tech Team",
+      "subheadline": "We're building the lending infrastructure for South India's MSME economy.",
+      "ctaPrimary": {
+        "label": "View Tech Openings",
+        "href": "/careers"
+      },
+      "bgColor": "teal"
+    }
+  ]
+}

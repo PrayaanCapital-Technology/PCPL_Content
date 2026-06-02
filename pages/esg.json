@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "title": "ESG & Impact | Prayaan Capital",
+    "description": "Prayaan Capital's environmental, social, and governance initiatives — financial inclusion and MSME empowerment.",
+    "ogImage": "/assets/images/hero/esg-hero.jpg"
+  },
+  "sections": [
+    {
+      "type": "Hero",
+      "headline": "Finance for a Better South India",
+      "subheadline": "Our ESG commitments go beyond compliance — they define why we exist.",
+      "backgroundImage": "/assets/images/hero/esg-hero.jpg"
+    },
+    {
+      "type": "TrustStrip",
+      "stats": [
+        {
+          "value": "40%+",
+          "label": "Women Borrowers"
+        },
+        {
+          "value": "70%+",
+          "label": "Semi-urban Loans"
+        },
+        {
+          "value": "15,000+",
+          "label": "Livelihoods Supported"
+        },
+        {
+          "value": "3 States",
+          "label": "Financial Inclusion Reach"
+        }
+      ]
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "text-right",
+      "headline": "Financial Inclusion Mission",
+      "body": "Over 70% of our loan book serves borrowers in Tier 2 and Tier 3 cities where formal credit access is limited. We deliberately price loans to be competitive while remaining sustainable — because affordable credit is the foundation of MSME growth."
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "text-left",
+      "headline": "Women Entrepreneur Support",
+      "body": "We actively target women-owned and women-led MSMEs, who face disproportionate barriers to formal credit. Over 40% of our borrowers are women entrepreneurs across textiles, retail, healthcare, and services."
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "text-right",
+      "headline": "Governance Standards",
+      "body": "Prayaan Capital adheres to RBI NBFC governance norms, maintains an independent board with qualified independent directors, and publishes audited financials annually. Zero tolerance for coercive recovery practices."
+    }
+  ]
+}

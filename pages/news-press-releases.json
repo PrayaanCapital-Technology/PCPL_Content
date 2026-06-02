@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "title": "Press Releases | Prayaan Capital",
+    "description": "Official press releases and company announcements from Prayaan Capital.",
+    "ogImage": "/assets/images/hero/press-hero.jpg"
+  },
+  "sections": [
+    {
+      "type": "Hero",
+      "headline": "Press Releases",
+      "subheadline": "Official announcements from Prayaan Capital.",
+      "backgroundImage": "/assets/images/hero/press-hero.jpg"
+    },
+    {
+      "type": "NewsGrid",
+      "headline": "Latest Press Releases",
+      "articles": [
+        {
+          "title": "Prayaan Capital Launches Operations in Telangana",
+          "date": "01 Mar 2026",
+          "excerpt": "Prayaan Capital today announced the opening of its first three branches in Hyderabad, Warangal, and Karimnagar.",
+          "href": "#"
+        },
+        {
+          "title": "Prayaan Capital Raises ₹100 Cr in Series B Round",
+          "date": "15 Jan 2026",
+          "excerpt": "The capital will be deployed towards expanding the loan book in Andhra Pradesh and Telangana.",
+          "href": "#"
+        },
+        {
+          "title": "Prayaan Capital Launches AI Underwriting Platform",
+          "date": "05 Nov 2025",
+          "excerpt": "The platform reduces credit decision time from 5 days to 48 hours through automated data analysis.",
+          "href": "#"
+        }
+      ]
+    }
+  ]
+}

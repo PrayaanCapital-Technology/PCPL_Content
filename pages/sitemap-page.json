@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "title": "Sitemap | Prayaan Capital",
+    "description": "Complete sitemap of the Prayaan Capital website.",
+    "ogImage": "/assets/images/hero/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "Hero",
+      "headline": "Sitemap",
+      "subheadline": "All pages on the Prayaan Capital website.",
+      "backgroundImage": "/assets/images/hero/og-default.jpg"
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "full-width",
+      "headline": "All Pages",
+      "sitemapLinks": [
+        {
+          "section": "Primary",
+          "links": [
+            "/",
+            "/about",
+            "/products",
+            "/products/secured-business-loans",
+            "/products/lap-financing",
+            "/why-prayaan",
+            "/investors",
+            "/leadership",
+            "/careers",
+            "/contact",
+            "/apply"
+          ]
+        },
+        {
+          "section": "Customer",
+          "links": [
+            "/customer",
+            "/customer/payments",
+            "/customer/grievance",
+            "/customer/calculators"
+          ]
+        },
+        {
+          "section": "News",
+          "links": [
+            "/news",
+            "/news/media-publications",
+            "/news/research-reports",
+            "/news/press-releases"
+          ]
+        },
+        {
+          "section": "Tools",
+          "links": [
+            "/tools/eligibility",
+            "/branches"
+          ]
+        },
+        {
+          "section": "Compliance",
+          "links": [
+            "/rbi-disclosures",
+            "/privacy-policy",
+            "/terms",
+            "/grievance",
+            "/fair-practice-code",
+            "/interest-rate-policy"
+          ]
+        },
+        {
+          "section": "Trust",
+          "links": [
+            "/success-stories",
+            "/technology",
+            "/partnerships",
+            "/esg"
+          ]
+        },
+        {
+          "section": "Resources",
+          "links": [
+            "/faq",
+            "/downloads",
+            "/insights"
+          ]
+        }
+      ]
+    }
+  ]
+}

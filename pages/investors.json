@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "title": "Investors & Lenders | Prayaan Capital",
+    "description": "Investor relations for Prayaan Capital — annual reports, governance policies, RBI disclosures, and lending partner enquiries.",
+    "ogImage": "/assets/images/hero/investors-hero.jpg"
+  },
+  "sections": [
+    {
+      "type": "Hero",
+      "headline": "Invest in South India's MSME Growth Story",
+      "subheadline": "Partner with a disciplined, technology-led NBFC with a proven track record across three states.",
+      "backgroundImage": "/assets/images/hero/investors-hero.jpg",
+      "ctaPrimary": {
+        "label": "Partner Enquiry",
+        "href": "/contact"
+      }
+    },
+    {
+      "type": "TrustStrip",
+      "stats": [
+        {
+          "value": "₹500 Cr+",
+          "label": "AUM"
+        },
+        {
+          "value": "< 3%",
+          "label": "GNPA"
+        },
+        {
+          "value": "Since 2018",
+          "label": "Track Record"
+        },
+        {
+          "value": "3 States",
+          "label": "Geographic Spread"
+        }
+      ]
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "text-right",
+      "headline": "Company Overview for Investors",
+      "body": "Prayaan Capital is an RBI-registered NBFC focused on secured MSME lending in Tamil Nadu, Andhra Pradesh, and Telangana. We combine relationship banking with a proprietary AI underwriting platform to deliver consistent asset quality and scalable growth.",
+      "bullets": [
+        {
+          "title": "Product Focus",
+          "body": "Secured Business Loans and LAP-Style Financing"
+        },
+        {
+          "title": "Ticket Size",
+          "body": "₹5 Lakhs to ₹2 Crore"
+        },
+        {
+          "title": "Borrower Profile",
+          "body": "MSMEs in manufacturing, trading, services"
+        },
+        {
+          "title": "Credit Framework",
+          "body": "AI-assisted underwriting + field verification"
+        }
+      ]
+    },
+    {
+      "type": "DownloadsGrid",
+      "headline": "Annual Reports & Disclosures",
+      "files": [
+        {
+          "title": "Annual Report 2025–26",
+          "type": "PDF",
+          "size": "2.4 MB",
+          "href": "/assets/docs/annual-reports/annual-report-2026.pdf"
+        },
+        {
+          "title": "Annual Report 2024–25",
+          "type": "PDF",
+          "size": "2.1 MB",
+          "href": "/assets/docs/annual-reports/annual-report-2025.pdf"
+        }
+      ]
+    },
+    {
+      "type": "ComplianceTable",
+      "headline": "Governance Policies",
+      "rows": [
+        {
+          "document": "Fair Practice Code",
+          "status": "Published",
+          "href": "/fair-practice-code"
+        },
+        {
+          "document": "Grievance Redressal Policy",
+          "status": "Published",
+          "href": "/grievance"
+        },
+        {
+          "document": "KYC Policy",
+          "status": "Published",
+          "href": "/rbi-disclosures"
+        },
+        {
+          "document": "Recovery Policy",
+          "status": "Published",
+          "href": "/rbi-disclosures"
+        },
+        {
+          "document": "Interest Rate Policy",
+          "status": "Published",
+          "href": "/interest-rate-policy"
+        }
+      ]
+    },
+    {
+      "type": "FormSection",
+      "headline": "Lending Partner Enquiry",
+      "subheadline": "Reach out to explore co-lending, NCD, or term loan partnership opportunities.",
+      "fields": [
+        {
+          "name": "name",
+          "label": "Full Name",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "organisation",
+          "label": "Organisation",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "email",
+          "label": "Email Address",
+          "type": "email",
+          "required": true
+        },
+        {
+          "name": "phone",
+          "label": "Phone Number",
+          "type": "tel",
+          "required": true
+        },
+        {
+          "name": "interest",
+          "label": "Interest Area",
+          "type": "select",
+          "required": true,
+          "options": [
+            "Co-lending",
+            "NCD Investment",
+            "Term Loan",
+            "Equity",
+            "Other"
+          ]
+        },
+        {
+          "name": "message",
+          "label": "Message",
+          "type": "textarea",
+          "required": false
+        }
+      ],
+      "submitLabel": "Submit Enquiry",
+      "successRedirect": "/thank-you"
+    }
+  ]
+}

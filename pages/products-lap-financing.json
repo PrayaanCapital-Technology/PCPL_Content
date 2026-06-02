@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "title": "LAP-Style Financing | Prayaan Capital",
+    "description": "Long-term loans secured by commercial or residential property. Maximum value for your asset.",
+    "ogImage": "/assets/images/hero/lap-hero.jpg"
+  },
+  "sections": [
+    {
+      "type": "Hero",
+      "headline": "LAP-Style Financing — Maximum Value for Your Property",
+      "subheadline": "Long-term loans secured by mortgage of commercial or residential property. Grow your business without liquidating assets.",
+      "backgroundImage": "/assets/images/hero/lap-hero.jpg",
+      "ctaPrimary": {
+        "label": "Apply Now",
+        "href": "/apply"
+      },
+      "ctaSecondary": {
+        "label": "Check Eligibility",
+        "href": "/tools/eligibility"
+      }
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "text-right",
+      "headline": "Product Features",
+      "bullets": [
+        {
+          "title": "Loan Amount",
+          "body": "₹25 Lakhs to ₹2 Crore"
+        },
+        {
+          "title": "LTV Ratio",
+          "body": "Up to 60% of property market value"
+        },
+        {
+          "title": "Interest Rate",
+          "body": "14% – 20% per annum (reducing balance)"
+        },
+        {
+          "title": "Tenure",
+          "body": "36 to 120 months"
+        },
+        {
+          "title": "Processing Fee",
+          "body": "1% – 1.5% of loan amount"
+        },
+        {
+          "title": "Prepayment",
+          "body": "2% charge within 24 months; nil thereafter"
+        }
+      ]
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "text-left",
+      "headline": "Eligible Property Types",
+      "bullets": [
+        {
+          "title": "Residential",
+          "body": "Self-occupied or rented residential property"
+        },
+        {
+          "title": "Commercial",
+          "body": "Shops, offices, warehouses, commercial complexes"
+        },
+        {
+          "title": "Industrial",
+          "body": "Factory sheds and industrial plots (select cases)"
+        }
+      ]
+    },
+    {
+      "type": "DocumentChecklist",
+      "headline": "Documents Required",
+      "categories": [
+        {
+          "category": "KYC",
+          "docs": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Passport photographs",
+            "Address proof"
+          ]
+        },
+        {
+          "category": "Business Documents",
+          "docs": [
+            "GST Registration",
+            "Udyam Certificate",
+            "Last 3 years ITR",
+            "Last 3 years audited financials",
+            "Last 12 months bank statements"
+          ]
+        },
+        {
+          "category": "Property Documents",
+          "docs": [
+            "Original title deed chain (minimum 15 years)",
+            "Latest EC for 15 years",
+            "Property tax paid receipts",
+            "Approved building plan",
+            "Prayaan-empanelled valuation report",
+            "Legal opinion from empanelled advocate"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "EMICalculator",
+      "headline": "Calculate Your EMI",
+      "defaults": {
+        "principal": 5000000,
+        "rate": 17,
+        "tenure": 84
+      }
+    },
+    {
+      "type": "CTABanner",
+      "headline": "Unlock the Value in Your Property",
+      "subheadline": "Apply today and get a decision within 48 hours.",
+      "ctaPrimary": {
+        "label": "Apply Now",
+        "href": "/apply"
+      },
+      "bgColor": "teal",
+      "ctaSecondary": {
+        "label": "Contact Us",
+        "href": "/contact"
+      }
+    }
+  ]
+}

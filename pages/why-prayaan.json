@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "title": "Why Prayaan Capital | MSME Lender",
+    "description": "Discover why thousands of MSMEs across South India choose Prayaan Capital for their business financing needs.",
+    "ogImage": "/assets/images/hero/why-prayaan-hero.jpg"
+  },
+  "sections": [
+    {
+      "type": "Hero",
+      "headline": "Why MSMEs Choose Prayaan Capital",
+      "subheadline": "We built this NBFC from the ground up for one segment: micro and small businesses in South India.",
+      "backgroundImage": "/assets/images/hero/why-prayaan-hero.jpg"
+    },
+    {
+      "type": "WhyPrayaan",
+      "headline": "Our 7 Commitments to You",
+      "differentiators": [
+        {
+          "icon": "building",
+          "title": "Deep MSME Understanding",
+          "body": "Our credit team has underwritten thousands of MSME loans. We understand your business cycles, seasonal cash flows, and documentation realities."
+        },
+        {
+          "icon": "map",
+          "title": "Semi-urban Expertise",
+          "body": "We operate in Tier 2 and Tier 3 markets where traditional banks often don't reach. Your geography is not a barrier."
+        },
+        {
+          "icon": "person",
+          "title": "Personalised Support",
+          "body": "Every borrower gets a dedicated relationship manager — a real person you can call, not a bot."
+        },
+        {
+          "icon": "doc",
+          "title": "Simple Documentation",
+          "body": "We've streamlined our KYC and credit process to minimise paperwork without compromising compliance."
+        },
+        {
+          "icon": "handshake",
+          "title": "Relationship-First Approach",
+          "body": "We're in this for the long term. Our goal is to be your financial partner across multiple loan cycles."
+        },
+        {
+          "icon": "shield",
+          "title": "Reliable & Transparent",
+          "body": "No hidden fees. No surprise rate changes mid-tenure. Everything disclosed upfront in plain language."
+        },
+        {
+          "icon": "chip",
+          "title": "Tech-enabled Underwriting",
+          "body": "Our AI platform processes alternative data to give a fair credit assessment — especially for thin-file borrowers."
+        }
+      ]
+    },
+    {
+      "type": "SuccessStories",
+      "headline": "Don't Just Take Our Word for It",
+      "stories": [
+        {
+          "name": "Lakshmi Narayanan",
+          "business": "Kirana Wholesaler, Salem",
+          "quote": "Three banks turned me down. Prayaan understood my business and gave me the loan I needed within a week.",
+          "loanAmount": "₹18 Lakhs",
+          "photo": "/assets/images/team/success-lakshmi.jpg"
+        },
+        {
+          "name": "Mohammed Farooq",
+          "business": "Auto Parts Trader, Vijayawada",
+          "quote": "The relationship manager visited my shop, understood my business, and got me a loan with fair terms.",
+          "loanAmount": "₹30 Lakhs",
+          "photo": "/assets/images/team/success-farooq.jpg"
+        }
+      ]
+    },
+    {
+      "type": "CTABanner",
+      "headline": "Experience the Prayaan Difference",
+      "subheadline": "Apply today or speak with a relationship manager at your nearest branch.",
+      "ctaPrimary": {
+        "label": "Apply Now",
+        "href": "/apply"
+      },
+      "bgColor": "saffron",
+      "ctaSecondary": {
+        "label": "Find a Branch",
+        "href": "/branches"
+      }
+    }
+  ]
+}

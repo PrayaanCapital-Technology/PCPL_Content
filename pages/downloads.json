@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "title": "Downloads | Prayaan Capital",
+    "description": "Download product brochures, application forms, rate cards, and document checklists from Prayaan Capital.",
+    "ogImage": "/assets/images/hero/downloads-hero.jpg"
+  },
+  "sections": [
+    {
+      "type": "Hero",
+      "headline": "Downloads",
+      "subheadline": "Brochures, forms, checklists, and rate cards — all in one place.",
+      "backgroundImage": "/assets/images/hero/downloads-hero.jpg"
+    },
+    {
+      "type": "DownloadsGrid",
+      "headline": "Product Brochures",
+      "files": [
+        {
+          "title": "Secured Business Loan — Product Brochure",
+          "type": "PDF",
+          "size": "1.2 MB",
+          "href": "/assets/docs/forms/sbl-brochure.pdf"
+        },
+        {
+          "title": "LAP-Style Financing — Product Brochure",
+          "type": "PDF",
+          "size": "1.4 MB",
+          "href": "/assets/docs/forms/lap-brochure.pdf"
+        }
+      ]
+    },
+    {
+      "type": "DownloadsGrid",
+      "headline": "Application Forms",
+      "files": [
+        {
+          "title": "Loan Application Form — Individual",
+          "type": "PDF",
+          "size": "0.8 MB",
+          "href": "/assets/docs/forms/application-individual.pdf"
+        },
+        {
+          "title": "Loan Application Form — Partnership / LLP",
+          "type": "PDF",
+          "size": "0.9 MB",
+          "href": "/assets/docs/forms/application-entity.pdf"
+        },
+        {
+          "title": "NACH Mandate Form",
+          "type": "PDF",
+          "size": "0.3 MB",
+          "href": "/assets/docs/forms/nach-mandate.pdf"
+        }
+      ]
+    },
+    {
+      "type": "DownloadsGrid",
+      "headline": "Document Checklists",
+      "files": [
+        {
+          "title": "Checklist — Secured Business Loan",
+          "type": "PDF",
+          "size": "0.4 MB",
+          "href": "/assets/docs/forms/checklist-sbl.pdf"
+        },
+        {
+          "title": "Checklist — LAP-Style Financing",
+          "type": "PDF",
+          "size": "0.5 MB",
+          "href": "/assets/docs/forms/checklist-lap.pdf"
+        }
+      ]
+    },
+    {
+      "type": "DownloadsGrid",
+      "headline": "Rate Cards",
+      "files": [
+        {
+          "title": "Interest Rate Card — April 2026",
+          "type": "PDF",
+          "size": "0.2 MB",
+          "href": "/assets/docs/forms/rate-card-apr-2026.pdf"
+        }
+      ]
+    },
+    {
+      "type": "DownloadsGrid",
+      "headline": "Annual Reports",
+      "files": [
+        {
+          "title": "Annual Report 2025–26",
+          "type": "PDF",
+          "size": "2.4 MB",
+          "href": "/assets/docs/annual-reports/annual-report-2026.pdf"
+        },
+        {
+          "title": "Annual Report 2024–25",
+          "type": "PDF",
+          "size": "2.1 MB",
+          "href": "/assets/docs/annual-reports/annual-report-2025.pdf"
+        }
+      ]
+    }
+  ]
+}

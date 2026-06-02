@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "title": "Media Publications | Prayaan Capital",
+    "description": "Media coverage and news articles featuring Prayaan Capital across financial and business publications.",
+    "ogImage": "/assets/images/hero/news-hero.jpg"
+  },
+  "sections": [
+    {
+      "type": "Hero",
+      "headline": "Media Coverage",
+      "subheadline": "Prayaan Capital in the news.",
+      "backgroundImage": "/assets/images/hero/news-hero.jpg"
+    },
+    {
+      "type": "NewsGrid",
+      "headline": "Latest Coverage",
+      "articles": [
+        {
+          "title": "Prayaan Capital crosses ₹500 Cr AUM milestone",
+          "publication": "Business Line",
+          "date": "15 May 2026",
+          "excerpt": "Chennai-based NBFC Prayaan Capital announced it has crossed ₹500 crore in assets under management.",
+          "href": "#",
+          "image": "/assets/images/hero/news-1.jpg"
+        },
+        {
+          "title": "How AI is changing MSME lending in South India",
+          "publication": "The Hindu",
+          "date": "02 Apr 2026",
+          "excerpt": "NBFCs like Prayaan Capital are using machine learning to assess creditworthiness of thin-file borrowers.",
+          "href": "#",
+          "image": "/assets/images/hero/news-2.jpg"
+        }
+      ]
+    }
+  ]
+}

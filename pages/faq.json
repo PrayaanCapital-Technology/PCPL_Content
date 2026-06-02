@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "title": "FAQ | Prayaan Capital",
+    "description": "Frequently asked questions about Prayaan Capital loans, eligibility, documentation, and repayment.",
+    "ogImage": "/assets/images/hero/faq-hero.jpg"
+  },
+  "sections": [
+    {
+      "type": "Hero",
+      "headline": "Frequently Asked Questions",
+      "subheadline": "Everything you need to know before you apply.",
+      "backgroundImage": "/assets/images/hero/faq-hero.jpg"
+    },
+    {
+      "type": "FAQSection",
+      "headline": "General",
+      "faqs": [
+        {
+          "question": "What is Prayaan Capital?",
+          "answer": "Prayaan Capital is an RBI-registered NBFC that provides secured business loans and LAP-style financing to MSMEs in Tamil Nadu, Andhra Pradesh, and Telangana."
+        },
+        {
+          "question": "Is Prayaan Capital regulated by RBI?",
+          "answer": "Yes. Our RBI registration certificate is available on the RBI Disclosures page."
+        },
+        {
+          "question": "What types of businesses can apply?",
+          "answer": "MSMEs in manufacturing, trading, and services operating in TN, AP, or Telangana. Both men and women business owners are eligible."
+        }
+      ]
+    },
+    {
+      "type": "FAQSection",
+      "headline": "Loan Products",
+      "faqs": [
+        {
+          "question": "What is the minimum and maximum loan amount?",
+          "answer": "Secured Business Loans: ₹5 Lakhs to ₹50 Lakhs. LAP-Style Financing: ₹25 Lakhs to ₹2 Crore."
+        },
+        {
+          "question": "What interest rates do you charge?",
+          "answer": "Secured Business Loans: 16%–24% p.a. LAP-Style Financing: 14%–20% p.a. on a reducing balance basis."
+        },
+        {
+          "question": "How long does approval take?",
+          "answer": "Credit decisions are typically provided within 48 hours of receiving complete documentation."
+        }
+      ]
+    },
+    {
+      "type": "FAQSection",
+      "headline": "Application & Documentation",
+      "faqs": [
+        {
+          "question": "How do I apply?",
+          "answer": "Apply online via our Apply Now page, visit any branch, or contact a relationship manager. The initial application takes about 10 minutes."
+        },
+        {
+          "question": "What documents do I need?",
+          "answer": "KYC documents (Aadhaar, PAN), 12 months bank statements, business proof (GST/Udyam), ITR, and property documents if applicable."
+        },
+        {
+          "question": "Is there a processing fee?",
+          "answer": "Yes. Processing fee is 1%–2% for Secured Business Loans and 1%–1.5% for LAP Financing, deducted from the disbursed amount."
+        }
+      ]
+    },
+    {
+      "type": "FAQSection",
+      "headline": "Repayment",
+      "faqs": [
+        {
+          "question": "How do I pay my EMI?",
+          "answer": "EMIs are collected via NACH auto-debit. You can also pay via UPI or NEFT. See the Customer Payments section for details."
+        },
+        {
+          "question": "Can I prepay my loan?",
+          "answer": "Yes. Secured Business Loans: nil after 12 months. LAP: 2% charge within 24 months, nil thereafter."
+        },
+        {
+          "question": "What happens if I miss an EMI?",
+          "answer": "Penal interest of 2% per month is charged on overdue amounts. Contact your relationship manager immediately if you anticipate difficulty."
+        }
+      ]
+    }
+  ]
+}

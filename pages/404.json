@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "title": "Page Not Found | Prayaan Capital",
+    "description": "The page you are looking for does not exist.",
+    "ogImage": "/assets/images/hero/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "Hero",
+      "headline": "Page Not Found",
+      "subheadline": "The page you're looking for doesn't exist or may have moved.",
+      "backgroundImage": "/assets/images/hero/og-default.jpg"
+    },
+    {
+      "type": "CTABanner",
+      "headline": "Let's Get You Back on Track",
+      "subheadline": "Visit our homepage or find a branch near you.",
+      "ctaPrimary": {
+        "label": "Go to Homepage",
+        "href": "/"
+      },
+      "bgColor": "teal",
+      "ctaSecondary": {
+        "label": "Contact Us",
+        "href": "/contact"
+      }
+    }
+  ]
+}

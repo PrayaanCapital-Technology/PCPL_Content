@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "title": "News & Media | Prayaan Capital",
+    "description": "Latest news, media coverage, research reports, and press releases from Prayaan Capital.",
+    "ogImage": "/assets/images/hero/news-hero.jpg"
+  },
+  "sections": [
+    {
+      "type": "Hero",
+      "headline": "News & Media",
+      "subheadline": "Stay updated with the latest from Prayaan Capital.",
+      "backgroundImage": "/assets/images/hero/news-hero.jpg"
+    },
+    {
+      "type": "ProductsGrid",
+      "headline": "Media Sections",
+      "products": [
+        {
+          "title": "Media Publications",
+          "description": "News coverage and media features about Prayaan Capital.",
+          "href": "/news/media-publications"
+        },
+        {
+          "title": "Research Reports",
+          "description": "MSME sector insights, financial inclusion research.",
+          "href": "/news/research-reports"
+        },
+        {
+          "title": "Press Releases",
+          "description": "Official announcements and company updates.",
+          "href": "/news/press-releases"
+        }
+      ]
+    }
+  ]
+}

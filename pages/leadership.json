@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "title": "Leadership | Prayaan Capital",
+    "description": "Meet the Board of Directors, Management Team, and Advisory Board of Prayaan Capital.",
+    "ogImage": "/assets/images/hero/leadership-hero.jpg"
+  },
+  "sections": [
+    {
+      "type": "Hero",
+      "headline": "Leadership Rooted in Experience",
+      "subheadline": "Bankers, technologists, and domain experts united by a commitment to MSME financial inclusion.",
+      "backgroundImage": "/assets/images/hero/leadership-hero.jpg"
+    },
+    {
+      "type": "LeadershipGrid",
+      "headline": "Board of Directors",
+      "members": [
+        {
+          "name": "Director Name 1",
+          "designation": "Managing Director & CEO",
+          "bio": "30+ years in NBFC, commercial banking. Former senior leader at [Bank Name].",
+          "photo": "/assets/images/team/board-1.jpg",
+          "linkedin": ""
+        },
+        {
+          "name": "Director Name 2",
+          "designation": "Non-Executive Director",
+          "bio": "Chartered Accountant with 25 years in financial services and audit.",
+          "photo": "/assets/images/team/board-2.jpg",
+          "linkedin": ""
+        },
+        {
+          "name": "Director Name 3",
+          "designation": "Independent Director",
+          "bio": "Retired IAS officer with deep expertise in rural development and finance.",
+          "photo": "/assets/images/team/board-3.jpg",
+          "linkedin": ""
+        }
+      ]
+    },
+    {
+      "type": "TeamGrid",
+      "headline": "Management Team",
+      "members": [
+        {
+          "name": "Manager Name 1",
+          "designation": "Chief Financial Officer",
+          "bio": "CA with 20 years in NBFC treasury and fundraising.",
+          "photo": "/assets/images/team/mgmt-1.jpg"
+        },
+        {
+          "name": "Manager Name 2",
+          "designation": "Chief Credit Officer",
+          "bio": "MSME credit specialist with 18 years of underwriting experience.",
+          "photo": "/assets/images/team/mgmt-2.jpg"
+        },
+        {
+          "name": "Manager Name 3",
+          "designation": "Chief Technology Officer",
+          "bio": "Full-stack technologist and AI engineer. Built Prayaan's lending platform.",
+          "photo": "/assets/images/team/mgmt-3.jpg"
+        },
+        {
+          "name": "Manager Name 4",
+          "designation": "Chief Operations Officer",
+          "bio": "15+ years in branch operations and collections across South India.",
+          "photo": "/assets/images/team/mgmt-4.jpg"
+        },
+        {
+          "name": "Manager Name 5",
+          "designation": "Head — Compliance & Legal",
+          "bio": "RBI NBFC regulations specialist and company secretary.",
+          "photo": "/assets/images/team/mgmt-5.jpg"
+        }
+      ]
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "text-left",
+      "headline": "Governance Structure",
+      "body": "Prayaan Capital follows robust corporate governance practices as mandated by RBI for NBFC-ND-SI entities. The Board meets quarterly and oversees risk, audit, credit, and nomination & remuneration committees.",
+      "bullets": [
+        {
+          "title": "Audit Committee",
+          "body": "Chaired by Independent Director. Reviews financials and internal audit."
+        },
+        {
+          "title": "Credit Committee",
+          "body": "Sanctions loans above branch authority. Meets weekly."
+        },
+        {
+          "title": "Risk Management Committee",
+          "body": "Monitors ALM, credit concentration, and operational risk."
+        },
+        {
+          "title": "Nomination & Remuneration Committee",
+          "body": "Governs Board composition and senior management remuneration."
+        }
+      ]
+    }
+  ]
+}

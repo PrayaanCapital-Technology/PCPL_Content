@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "Terms & Conditions | Prayaan Capital",
+    "description": "Terms and conditions for use of Prayaan Capital's website and loan services.",
+    "ogImage": "/assets/images/hero/compliance-hero.jpg"
+  },
+  "sections": [
+    {
+      "type": "Hero",
+      "headline": "Terms & Conditions",
+      "subheadline": "Last updated: 01 April 2026",
+      "backgroundImage": "/assets/images/hero/compliance-hero.jpg"
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "full-width",
+      "headline": "1. General Terms",
+      "body": "By accessing this website and using Prayaan Capital's services, you agree to be bound by these Terms. They apply to all visitors, applicants, and borrowers."
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "full-width",
+      "headline": "2. Loan Terms",
+      "body": "All loan products are subject to Prayaan Capital's credit policy, RBI guidelines, and the terms stated in individual loan agreements. Applying on this website does not constitute a loan offer or sanction."
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "full-width",
+      "headline": "3. Website Usage",
+      "body": "You may not use this website for any unlawful purpose, to transmit harmful content, or to attempt unauthorised access to our systems."
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "full-width",
+      "headline": "4. Disclaimers",
+      "body": "Information on this website is for general informational purposes only. Interest rates and product terms are indicative and subject to change. Final terms are as stated in your sanction letter."
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "full-width",
+      "headline": "5. Governing Law",
+      "body": "These terms are governed by the laws of India. Disputes shall be subject to the exclusive jurisdiction of courts in Chennai, Tamil Nadu."
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "full-width",
+      "headline": "6. Dispute Resolution",
+      "body": "Disputes should first be raised through our Grievance Redressal mechanism. Unresolved disputes may be referred to the RBI Ombudsman as per applicable guidelines."
+    }
+  ]
+}

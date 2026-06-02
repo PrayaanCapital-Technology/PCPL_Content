@@ -1,0 +1,107 @@
+{
+  "tagline": "Empowering MSMEs across South India with fast, fair, and transparent credit.",
+  "columns": [
+    {
+      "heading": "Products",
+      "links": [
+        {
+          "label": "Secured Business Loans",
+          "href": "/products/secured-business-loans"
+        },
+        {
+          "label": "LAP-Style Financing",
+          "href": "/products/lap-financing"
+        },
+        {
+          "label": "Check Eligibility",
+          "href": "/tools/eligibility"
+        },
+        {
+          "label": "EMI Calculator",
+          "href": "/customer/calculators"
+        }
+      ]
+    },
+    {
+      "heading": "Company",
+      "links": [
+        {
+          "label": "About Us",
+          "href": "/about"
+        },
+        {
+          "label": "Leadership",
+          "href": "/leadership"
+        },
+        {
+          "label": "Why Prayaan",
+          "href": "/why-prayaan"
+        },
+        {
+          "label": "Technology",
+          "href": "/technology"
+        },
+        {
+          "label": "Partnerships",
+          "href": "/partnerships"
+        },
+        {
+          "label": "Careers",
+          "href": "/careers"
+        }
+      ]
+    },
+    {
+      "heading": "Investors",
+      "links": [
+        {
+          "label": "Investor Relations",
+          "href": "/investors"
+        },
+        {
+          "label": "Annual Reports",
+          "href": "/downloads"
+        },
+        {
+          "label": "Press Releases",
+          "href": "/news/press-releases"
+        },
+        {
+          "label": "ESG & Impact",
+          "href": "/esg"
+        }
+      ]
+    },
+    {
+      "heading": "Compliance",
+      "links": [
+        {
+          "label": "RBI Disclosures",
+          "href": "/rbi-disclosures"
+        },
+        {
+          "label": "Fair Practice Code",
+          "href": "/fair-practice-code"
+        },
+        {
+          "label": "Interest Rate Policy",
+          "href": "/interest-rate-policy"
+        },
+        {
+          "label": "Grievance Redressal",
+          "href": "/grievance"
+        },
+        {
+          "label": "Privacy Policy",
+          "href": "/privacy-policy"
+        },
+        {
+          "label": "Terms & Conditions",
+          "href": "/terms"
+        }
+      ]
+    }
+  ],
+  "legalLine": "© 2026 Prayaan Capital Private Limited. RBI Registered NBFC. CIN: XXXXXXXXXXXXXXXXX. All rights reserved.",
+  "disclaimer": "Loans are subject to credit appraisal and eligibility. Interest rates and charges are subject to change. Please read all loan documents carefully before signing."
+}

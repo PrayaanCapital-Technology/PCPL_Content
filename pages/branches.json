@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "title": "Branch Locator | Prayaan Capital",
+    "description": "Find your nearest Prayaan Capital branch in Tamil Nadu, Andhra Pradesh, and Telangana.",
+    "ogImage": "/assets/images/hero/branches-hero.jpg"
+  },
+  "sections": [
+    {
+      "type": "Hero",
+      "headline": "Find Your Nearest Branch",
+      "subheadline": "Present across Tamil Nadu, Andhra Pradesh, and Telangana.",
+      "backgroundImage": "/assets/images/hero/branches-hero.jpg"
+    },
+    {
+      "type": "BranchLocator",
+      "headline": "Our Branches",
+      "branches": [
+        {
+          "state": "Tamil Nadu",
+          "locations": [
+            {
+              "city": "Chennai",
+              "name": "Head Office",
+              "address": "Address Line 1, Chennai – 600XXX",
+              "phone": "+91 XXXXX XXXXX",
+              "hours": "Mon–Sat 9:30–6:00"
+            },
+            {
+              "city": "Coimbatore",
+              "name": "Coimbatore Branch",
+              "address": "Address Line 1, Coimbatore – 641XXX",
+              "phone": "+91 XXXXX XXXXX",
+              "hours": "Mon–Sat 9:30–6:00"
+            },
+            {
+              "city": "Madurai",
+              "name": "Madurai Branch",
+              "address": "Address Line 1, Madurai – 625XXX",
+              "phone": "+91 XXXXX XXXXX",
+              "hours": "Mon–Sat 9:30–6:00"
+            },
+            {
+              "city": "Salem",
+              "name": "Salem Branch",
+              "address": "Address Line 1, Salem – 636XXX",
+              "phone": "+91 XXXXX XXXXX",
+              "hours": "Mon–Sat 9:30–6:00"
+            },
+            {
+              "city": "Tirupur",
+              "name": "Tirupur Branch",
+              "address": "Address Line 1, Tirupur – 641XXX",
+              "phone": "+91 XXXXX XXXXX",
+              "hours": "Mon–Sat 9:30–6:00"
+            }
+          ]
+        },
+        {
+          "state": "Andhra Pradesh",
+          "locations": [
+            {
+              "city": "Vijayawada",
+              "name": "Vijayawada Branch",
+              "address": "Address Line 1, Vijayawada – 520XXX",
+              "phone": "+91 XXXXX XXXXX",
+              "hours": "Mon–Sat 9:30–6:00"
+            },
+            {
+              "city": "Visakhapatnam",
+              "name": "Vizag Branch",
+              "address": "Address Line 1, Visakhapatnam – 530XXX",
+              "phone": "+91 XXXXX XXXXX",
+              "hours": "Mon–Sat 9:30–6:00"
+            }
+          ]
+        },
+        {
+          "state": "Telangana",
+          "locations": [
+            {
+              "city": "Hyderabad",
+              "name": "Hyderabad Branch",
+              "address": "Address Line 1, Hyderabad – 500XXX",
+              "phone": "+91 XXXXX XXXXX",
+              "hours": "Mon–Sat 9:30–6:00"
+            },
+            {
+              "city": "Warangal",
+              "name": "Warangal Branch",
+              "address": "Address Line 1, Warangal – 506XXX",
+              "phone": "+91 XXXXX XXXXX",
+              "hours": "Mon–Sat 9:30–6:00"
+            },
+            {
+              "city": "Karimnagar",
+              "name": "Karimnagar Branch",
+              "address": "Address Line 1, Karimnagar – 505XXX",
+              "phone": "+91 XXXXX XXXXX",
+              "hours": "Mon–Sat 9:30–6:00"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

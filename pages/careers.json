@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "title": "Careers | Prayaan Capital",
+    "description": "Build your career at Prayaan Capital. Join a growing NBFC at the intersection of finance and technology in South India.",
+    "ogImage": "/assets/images/hero/careers-hero.jpg"
+  },
+  "sections": [
+    {
+      "type": "Hero",
+      "headline": "Build the Future of MSME Finance",
+      "subheadline": "Join a growing NBFC at the intersection of finance and technology.",
+      "backgroundImage": "/assets/images/hero/careers-hero.jpg",
+      "ctaPrimary": {
+        "label": "View Openings",
+        "href": "#openings"
+      }
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "text-right",
+      "headline": "Why Work at Prayaan?",
+      "bullets": [
+        {
+          "title": "Mission-driven Work",
+          "body": "Every loan you process directly impacts a small business owner's livelihood."
+        },
+        {
+          "title": "Growth Trajectory",
+          "body": "A young, expanding NBFC means fast career progression for performers."
+        },
+        {
+          "title": "Tech-forward Culture",
+          "body": "Modern tools, AI-assisted workflows, and a culture of continuous learning."
+        },
+        {
+          "title": "Inclusive Workplace",
+          "body": "Strong representation of women at all levels. Zero tolerance for discrimination."
+        }
+      ]
+    },
+    {
+      "type": "NewsGrid",
+      "id": "openings",
+      "headline": "Current Openings — NBFC Roles",
+      "articles": [
+        {
+          "title": "Relationship Manager — Secured Business Loans",
+          "location": "Chennai / Coimbatore / Madurai",
+          "type": "Full-time",
+          "href": "/apply?role=rm-nbfc"
+        },
+        {
+          "title": "Credit Analyst",
+          "location": "Chennai (Head Office)",
+          "type": "Full-time",
+          "href": "/apply?role=credit-analyst"
+        },
+        {
+          "title": "Branch Manager",
+          "location": "Vijayawada / Hyderabad",
+          "type": "Full-time",
+          "href": "/apply?role=branch-manager"
+        },
+        {
+          "title": "Collections Executive",
+          "location": "Tamil Nadu — Multiple Locations",
+          "type": "Full-time",
+          "href": "/apply?role=collections"
+        }
+      ]
+    },
+    {
+      "type": "NewsGrid",
+      "headline": "Current Openings — Tech Roles",
+      "articles": [
+        {
+          "title": "Full-Stack Engineer (React + Node.js)",
+          "location": "Chennai / Remote",
+          "type": "Full-time",
+          "href": "/apply?role=fullstack"
+        },
+        {
+          "title": "Data Engineer — Lending Analytics",
+          "location": "Chennai / Remote",
+          "type": "Full-time",
+          "href": "/apply?role=data-engineer"
+        },
+        {
+          "title": "ML Engineer — Credit Risk",
+          "location": "Chennai",
+          "type": "Full-time",
+          "href": "/apply?role=ml-engineer"
+        }
+      ]
+    },
+    {
+      "type": "CTABanner",
+      "headline": "Don't See Your Role?",
+      "subheadline": "Send us your CV and we'll reach out when a matching position opens.",
+      "ctaPrimary": {
+        "label": "Send CV",
+        "href": "/contact"
+      },
+      "bgColor": "teal"
+    }
+  ]
+}

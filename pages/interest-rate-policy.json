@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "title": "Interest Rate Policy | Prayaan Capital",
+    "description": "Prayaan Capital's transparent interest rate policy — rates, fees, and charges for all loan products.",
+    "ogImage": "/assets/images/hero/compliance-hero.jpg"
+  },
+  "sections": [
+    {
+      "type": "Hero",
+      "headline": "Interest Rate Policy",
+      "subheadline": "Transparent disclosure of all rates, fees, and charges. Last reviewed: 01 April 2026.",
+      "backgroundImage": "/assets/images/hero/compliance-hero.jpg"
+    },
+    {
+      "type": "ComplianceTable",
+      "headline": "Interest Rates by Product",
+      "columns": [
+        "Product",
+        "Rate Range (p.a.)",
+        "Method",
+        "Effective From"
+      ],
+      "rows": [
+        {
+          "product": "Secured Business Loans",
+          "rateRange": "16% – 24%",
+          "method": "Reducing Balance",
+          "effectiveFrom": "01 Apr 2026"
+        },
+        {
+          "product": "LAP-Style Financing",
+          "rateRange": "14% – 20%",
+          "method": "Reducing Balance",
+          "effectiveFrom": "01 Apr 2026"
+        }
+      ],
+      "footnote": "Final interest rate is determined at credit assessment and communicated at sanction."
+    },
+    {
+      "type": "ComplianceTable",
+      "headline": "Fees & Charges",
+      "columns": [
+        "Charge Type",
+        "Secured Business Loans",
+        "LAP Financing"
+      ],
+      "rows": [
+        {
+          "charge": "Processing Fee",
+          "sbl": "1% – 2% of loan amount",
+          "lap": "1% – 1.5% of loan amount"
+        },
+        {
+          "charge": "Documentation Charges",
+          "sbl": "Actuals",
+          "lap": "Actuals"
+        },
+        {
+          "charge": "Prepayment (within 12M)",
+          "sbl": "2% of outstanding",
+          "lap": "2% of outstanding"
+        },
+        {
+          "charge": "Prepayment (after 12M)",
+          "sbl": "Nil",
+          "lap": "2% within 24M; Nil after"
+        },
+        {
+          "charge": "Penal Interest",
+          "sbl": "2% p.m. on overdue",
+          "lap": "2% p.m. on overdue"
+        },
+        {
+          "charge": "Cheque Bounce",
+          "sbl": "₹500 per instance",
+          "lap": "₹500 per instance"
+        },
+        {
+          "charge": "Legal Charges",
+          "sbl": "N/A",
+          "lap": "Actuals"
+        }
+      ]
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "full-width",
+      "headline": "Rate Setting Methodology",
+      "body": "Interest rates are set by the Board-approved ALCO based on: cost of funds, credit risk premium, operating cost, profit margin, and prevailing market rates. Rates are reviewed at least once per quarter. Any change applies prospectively and is communicated to existing borrowers per RBI guidelines."
+    }
+  ]
+}

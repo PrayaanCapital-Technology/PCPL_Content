@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "title": "Grievance Redressal | Prayaan Capital",
+    "description": "Prayaan Capital's grievance redressal policy — how to raise and escalate complaints as an NBFC borrower.",
+    "ogImage": "/assets/images/hero/compliance-hero.jpg"
+  },
+  "sections": [
+    {
+      "type": "Hero",
+      "headline": "Grievance Redressal",
+      "subheadline": "We take every complaint seriously. Acknowledged within 48 hours.",
+      "backgroundImage": "/assets/images/hero/compliance-hero.jpg"
+    },
+    {
+      "type": "ComplianceTable",
+      "headline": "Escalation Matrix",
+      "rows": [
+        {
+          "level": "Level 1 — Branch",
+          "contact": "Your Relationship Manager / Branch Manager",
+          "turnaround": "3 working days"
+        },
+        {
+          "level": "Level 2 — Head Office",
+          "contact": "grievance@prayaancapital.com | +91 XXXXX XXXXX",
+          "turnaround": "7 working days"
+        },
+        {
+          "level": "Level 3 — Nodal Officer",
+          "contact": "Nodal Officer Name | nodal@prayaancapital.com",
+          "turnaround": "14 working days"
+        },
+        {
+          "level": "Level 4 — RBI Ombudsman",
+          "contact": "https://cms.rbi.org.in | If unresolved after 30 days",
+          "turnaround": "Per RBI guidelines"
+        }
+      ]
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "text-left",
+      "headline": "Nodal Officer",
+      "body": "Name: [Nodal Officer Name]\nDesignation: Head — Compliance & Legal\nAddress: Prayaan Capital Private Limited, Head Office, Chennai – 600XXX\nEmail: nodal@prayaancapital.com\nPhone: +91 XXXXX XXXXX"
+    },
+    {
+      "type": "GrievanceForm",
+      "headline": "Submit Your Grievance",
+      "fields": [
+        {
+          "name": "name",
+          "label": "Full Name",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "loanAccount",
+          "label": "Loan Account No.",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "phone",
+          "label": "Registered Mobile",
+          "type": "tel",
+          "required": true
+        },
+        {
+          "name": "email",
+          "label": "Email",
+          "type": "email",
+          "required": false
+        },
+        {
+          "name": "category",
+          "label": "Grievance Category",
+          "type": "select",
+          "required": true,
+          "options": [
+            "EMI / Payment",
+            "Incorrect Charges",
+            "Staff Behaviour",
+            "Document Issue",
+            "Foreclosure / Closure",
+            "Loan Application",
+            "Other"
+          ]
+        },
+        {
+          "name": "description",
+          "label": "Details",
+          "type": "textarea",
+          "required": true
+        },
+        {
+          "name": "evidence",
+          "label": "Reference / Evidence",
+          "type": "text",
+          "required": false
+        }
+      ],
+      "submitLabel": "Submit Grievance",
+      "successRedirect": "/thank-you",
+      "slaNote": "Acknowledged in 48 hours. Resolved within 7 working days."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Customer Support | Prayaan Capital",
+    "description": "Customer support hub — payments, grievance redressal, and financial calculators for Prayaan Capital borrowers.",
+    "ogImage": "/assets/images/hero/customer-hero.jpg"
+  },
+  "sections": [
+    {
+      "type": "Hero",
+      "headline": "We're Here for You",
+      "subheadline": "Make payments, calculate EMIs, or raise a grievance — all in one place.",
+      "backgroundImage": "/assets/images/hero/customer-hero.jpg"
+    },
+    {
+      "type": "ProductsGrid",
+      "headline": "Customer Services",
+      "products": [
+        {
+          "title": "Payments",
+          "description": "Pay your EMI online via UPI, NEFT, or auto-debit setup.",
+          "icon": "/assets/images/products/payments.svg",
+          "href": "/customer/payments"
+        },
+        {
+          "title": "Grievance",
+          "description": "Raise a complaint. We respond within 7 working days.",
+          "icon": "/assets/images/products/grievance.svg",
+          "href": "/customer/grievance"
+        },
+        {
+          "title": "Calculators",
+          "description": "EMI calculator, foreclosure calculator, and more.",
+          "icon": "/assets/images/products/calculator.svg",
+          "href": "/customer/calculators"
+        }
+      ]
+    },
+    {
+      "type": "FAQSection",
+      "headline": "Common Customer Questions",
+      "faqs": [
+        {
+          "question": "How do I pay my EMI online?",
+          "answer": "You can pay via UPI, NEFT/RTGS, or set up auto-debit (NACH). Visit the Payments section for details."
+        },
+        {
+          "question": "What do I do if my EMI is not credited?",
+          "answer": "Contact your relationship manager within 3 working days with your payment reference number."
+        },
+        {
+          "question": "How do I get a No Dues Certificate?",
+          "answer": "Request via email after full repayment. Issued within 7 working days."
+        },
+        {
+          "question": "Can I prepay my loan?",
+          "answer": "Yes. Nil charges for Secured Business Loans after 12 months. For LAP: 2% within 24 months, nil thereafter."
+        }
+      ]
+    }
+  ]
+}

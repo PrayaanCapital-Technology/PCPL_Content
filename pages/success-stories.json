@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "title": "Success Stories | Prayaan Capital",
+    "description": "Real MSME customers who grew their businesses with Prayaan Capital loans.",
+    "ogImage": "/assets/images/hero/success-hero.jpg"
+  },
+  "sections": [
+    {
+      "type": "Hero",
+      "headline": "Stories of Real Growth",
+      "subheadline": "MSMEs across South India who built bigger businesses with Prayaan Capital.",
+      "backgroundImage": "/assets/images/hero/success-hero.jpg"
+    },
+    {
+      "type": "SuccessStories",
+      "headline": "Retail & Trading",
+      "stories": [
+        {
+          "name": "Ravi Kumar",
+          "business": "Steel Fabrication, Coimbatore",
+          "quote": "Got my working capital in 3 days. The process was simple and transparent.",
+          "loanAmount": "₹25 Lakhs",
+          "photo": "/assets/images/team/success-ravi.jpg"
+        },
+        {
+          "name": "Meena Sundaram",
+          "business": "Textile Trader, Tirupur",
+          "quote": "As a woman entrepreneur, Prayaan made the process respectful and straightforward.",
+          "loanAmount": "₹12 Lakhs",
+          "photo": "/assets/images/team/success-meena.jpg"
+        }
+      ]
+    },
+    {
+      "type": "SuccessStories",
+      "headline": "Manufacturing",
+      "stories": [
+        {
+          "name": "Senthil Murugan",
+          "business": "Plastic Moulding Unit, Madurai",
+          "quote": "I used the LAP loan to buy new machinery. Production doubled in 6 months.",
+          "loanAmount": "₹60 Lakhs",
+          "photo": "/assets/images/team/success-senthil.jpg"
+        }
+      ]
+    },
+    {
+      "type": "SuccessStories",
+      "headline": "Services & Healthcare",
+      "stories": [
+        {
+          "name": "Dr. Priya Nair",
+          "business": "Diagnostic Centre, Hyderabad",
+          "quote": "The LAP financing helped me open a second branch. Prayaan's team was genuinely helpful.",
+          "loanAmount": "₹90 Lakhs",
+          "photo": "/assets/images/team/success-priya.jpg"
+        }
+      ]
+    },
+    {
+      "type": "CTABanner",
+      "headline": "Your Business Could Be Next",
+      "subheadline": "Apply today and get a credit decision in 48 hours.",
+      "ctaPrimary": {
+        "label": "Apply Now",
+        "href": "/apply"
+      },
+      "bgColor": "teal"
+    }
+  ]
+}

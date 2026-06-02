@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "title": "Loan Products | Prayaan Capital",
+    "description": "Explore Prayaan Capital's range of MSME loan products — Secured Business Loans and LAP-Style Financing for South Indian businesses.",
+    "ogImage": "/assets/images/hero/products-hero.jpg"
+  },
+  "sections": [
+    {
+      "type": "Hero",
+      "headline": "Loan Products for Every MSME Need",
+      "subheadline": "Flexible, transparent, and designed for the realities of running a small business.",
+      "backgroundImage": "/assets/images/hero/products-hero.jpg",
+      "ctaPrimary": {
+        "label": "Apply Now",
+        "href": "/apply"
+      }
+    },
+    {
+      "type": "ProductsGrid",
+      "headline": "Our Products",
+      "subheadline": "Two focused product lines — short-term working capital and long-term growth financing",
+      "products": [
+        {
+          "title": "Secured Business Loans",
+          "description": "Working capital and term loans for MSMEs in manufacturing, trading, and services.",
+          "interestRange": "16% – 24% p.a.",
+          "tenureRange": "12 – 60 months",
+          "loanRange": "₹5 Lakhs – ₹50 Lakhs",
+          "icon": "/assets/images/products/secured-loan.svg",
+          "href": "/products/secured-business-loans"
+        },
+        {
+          "title": "LAP-Style Financing",
+          "description": "Long-term loans secured by mortgage of commercial or residential property.",
+          "interestRange": "14% – 20% p.a.",
+          "tenureRange": "36 – 120 months",
+          "loanRange": "₹25 Lakhs – ₹2 Crore",
+          "icon": "/assets/images/products/lap.svg",
+          "href": "/products/lap-financing"
+        }
+      ]
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "text-left",
+      "headline": "Eligibility at a Glance",
+      "bullets": [
+        {
+          "title": "Business Vintage",
+          "body": "Minimum 2 years of business operation"
+        },
+        {
+          "title": "Location",
+          "body": "Operating in Tamil Nadu, Andhra Pradesh, or Telangana"
+        },
+        {
+          "title": "Credit Score",
+          "body": "CIBIL score 650+ preferred; first-time borrowers considered"
+        },
+        {
+          "title": "Collateral",
+          "body": "Property or business asset security as applicable"
+        }
+      ]
+    },
+    {
+      "type": "EMICalculator",
+      "headline": "Calculate Your EMI",
+      "defaults": {
+        "principal": 1000000,
+        "rate": 18,
+        "tenure": 36
+      }
+    },
+    {
+      "type": "CTABanner",
+      "headline": "Not Sure Which Product is Right for You?",
+      "subheadline": "Talk to our relationship managers — we'll help you find the best fit.",
+      "ctaPrimary": {
+        "label": "Contact Us",
+        "href": "/contact"
+      },
+      "bgColor": "teal",
+      "ctaSecondary": {
+        "label": "Check Eligibility",
+        "href": "/tools/eligibility"
+      }
+    }
+  ]
+}

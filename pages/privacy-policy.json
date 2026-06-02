@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "Privacy Policy | Prayaan Capital",
+    "description": "Prayaan Capital's privacy policy — how we collect, use, and protect your data.",
+    "ogImage": "/assets/images/hero/compliance-hero.jpg"
+  },
+  "sections": [
+    {
+      "type": "Hero",
+      "headline": "Privacy Policy",
+      "subheadline": "Last updated: 01 April 2026",
+      "backgroundImage": "/assets/images/hero/compliance-hero.jpg"
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "full-width",
+      "headline": "1. Data We Collect",
+      "body": "We collect personal identification information (name, mobile, email, Aadhaar, PAN), financial information (bank statements, ITR), property information, and device/usage data (IP address, browser type, pages visited)."
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "full-width",
+      "headline": "2. How We Use Your Data",
+      "body": "Your data is used for credit assessment and loan processing; KYC verification as required by RBI; communicating about your account; regulatory reporting to RBI, credit bureaus (CIBIL, Experian, CRIF), and statutory bodies; improving our products."
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "full-width",
+      "headline": "3. Data Security",
+      "body": "We implement 256-bit SSL encryption, access controls, and regular security audits. All data is stored on servers in India in compliance with applicable data localisation requirements."
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "full-width",
+      "headline": "4. Third-Party Sharing",
+      "body": "We share data only with credit bureaus, co-lending partners where applicable, statutory authorities as required by law, and technology service providers under strict data processing agreements. We do not sell your personal data."
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "full-width",
+      "headline": "5. Your Rights",
+      "body": "You have the right to access, correct, or request deletion of your personal data subject to applicable law and regulatory retention requirements. Write to dpo@prayaancapital.com."
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "full-width",
+      "headline": "6. Contact",
+      "body": "Data Protection Officer\nPrayaan Capital Private Limited\nHead Office, Chennai – 600XXX\nEmail: dpo@prayaancapital.com"
+    }
+  ]
+}

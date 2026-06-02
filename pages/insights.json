@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "title": "Insights | Prayaan Capital",
+    "description": "MSME tips, financial literacy, industry insights, and business growth guides from Prayaan Capital.",
+    "ogImage": "/assets/images/hero/insights-hero.jpg"
+  },
+  "sections": [
+    {
+      "type": "Hero",
+      "headline": "Insights for MSME Growth",
+      "subheadline": "Practical knowledge to help your business grow.",
+      "backgroundImage": "/assets/images/hero/insights-hero.jpg",
+      "badge": "Coming Soon"
+    },
+    {
+      "type": "CTABanner",
+      "headline": "Insights Section Coming Soon",
+      "subheadline": "We're curating MSME tips, financial literacy content, and industry research.",
+      "ctaPrimary": {
+        "label": "Contact Us",
+        "href": "/contact"
+      },
+      "bgColor": "teal"
+    }
+  ]
+}

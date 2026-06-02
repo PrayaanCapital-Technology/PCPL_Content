@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "title": "Secured Business Loans | Prayaan Capital",
+    "description": "Secured business loans for MSMEs in manufacturing, trading, and services. Loans from ₹5L to ₹50L.",
+    "ogImage": "/assets/images/hero/secured-loans-hero.jpg"
+  },
+  "sections": [
+    {
+      "type": "Hero",
+      "headline": "Secured Business Loans for MSMEs",
+      "subheadline": "Working capital and term loans for micro and small businesses in manufacturing, trading, and services.",
+      "backgroundImage": "/assets/images/hero/secured-loans-hero.jpg",
+      "badge": "Most Popular",
+      "ctaPrimary": {
+        "label": "Apply Now",
+        "href": "/apply"
+      },
+      "ctaSecondary": {
+        "label": "Check Eligibility",
+        "href": "/tools/eligibility"
+      }
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "text-right",
+      "headline": "Product Features",
+      "bullets": [
+        {
+          "title": "Loan Amount",
+          "body": "₹5 Lakhs to ₹50 Lakhs"
+        },
+        {
+          "title": "Interest Rate",
+          "body": "16% – 24% per annum (reducing balance)"
+        },
+        {
+          "title": "Tenure",
+          "body": "12 to 60 months"
+        },
+        {
+          "title": "Processing Fee",
+          "body": "1% – 2% of loan amount"
+        },
+        {
+          "title": "Repayment",
+          "body": "Monthly EMI via NACH auto-debit"
+        },
+        {
+          "title": "Prepayment",
+          "body": "Nil charges after 12 months"
+        }
+      ]
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "text-left",
+      "headline": "Eligibility Criteria",
+      "bullets": [
+        {
+          "title": "Segment",
+          "body": "MSMEs — Manufacturing, Trading, Services"
+        },
+        {
+          "title": "Business Vintage",
+          "body": "Minimum 2 years in operation"
+        },
+        {
+          "title": "Age",
+          "body": "Applicant 21–65 years"
+        },
+        {
+          "title": "Location",
+          "body": "Tamil Nadu, Andhra Pradesh, Telangana"
+        },
+        {
+          "title": "Credit Score",
+          "body": "CIBIL 650+ preferred"
+        },
+        {
+          "title": "Collateral",
+          "body": "Business or personal property security"
+        }
+      ]
+    },
+    {
+      "type": "DocumentChecklist",
+      "headline": "Documents Required",
+      "categories": [
+        {
+          "category": "KYC — Individual",
+          "docs": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Passport-size photographs",
+            "Voter ID / Driving Licence (any one)"
+          ]
+        },
+        {
+          "category": "Business Proof",
+          "docs": [
+            "GST Registration Certificate",
+            "Udyam Registration",
+            "Shop & Establishment Certificate",
+            "Partnership Deed / MOA (if applicable)"
+          ]
+        },
+        {
+          "category": "Financial Documents",
+          "docs": [
+            "Last 12 months bank statements",
+            "Last 2 years ITR with computation",
+            "Last 2 years audited P&L and Balance Sheet (if turnover > ₹40L)"
+          ]
+        },
+        {
+          "category": "Property / Collateral",
+          "docs": [
+            "Property title deed",
+            "Latest encumbrance certificate",
+            "Property tax receipt",
+            "Valuation report (Prayaan empanelled valuer)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "EMICalculator",
+      "headline": "Calculate Your EMI",
+      "defaults": {
+        "principal": 1500000,
+        "rate": 20,
+        "tenure": 36
+      }
+    },
+    {
+      "type": "CTABanner",
+      "headline": "Apply for a Secured Business Loan Today",
+      "subheadline": "Get a decision in 48 hours. No hidden charges. No surprises.",
+      "ctaPrimary": {
+        "label": "Apply Now",
+        "href": "/apply"
+      },
+      "bgColor": "teal",
+      "ctaSecondary": {
+        "label": "Find a Branch",
+        "href": "/branches"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "logo": {
+    "primary": "/assets/images/logo/prayaan-logo.svg",
+    "white": "/assets/images/logo/prayaan-logo-white.svg",
+    "favicon": "/assets/images/logo/favicon.ico"
+  },
+  "colors": {
+    "saffron": "#F4A023",
+    "teal": "#0F6E56",
+    "coral": "#E8553E",
+    "bgLight": "#FAFAF8",
+    "surface": "#FFFFFF",
+    "textPrimary": "#1A1A1A",
+    "textSecondary": "#6B7280"
+  },
+  "fonts": {
+    "heading": "Syne",
+    "body": "Inter"
+  },
+  "social": {
+    "linkedin": "https://linkedin.com/company/prayaan-capital",
+    "twitter": "",
+    "instagram": ""
+  },
+  "contact": {
+    "phone": "+91 XXXXX XXXXX",
+    "email": "info@prayaancapital.com",
+    "address": "Head Office, Chennai, Tamil Nadu"
+  },
+  "nbfc": {
+    "cin": "XXXXXXXXXXXXXXXXX",
+    "rbiRegNumber": "N-XX.XXXXX.XXXXX",
+    "registeredName": "Prayaan Capital Private Limited",
+    "incorporationDate": "DD MMM YYYY"
+  }
+}

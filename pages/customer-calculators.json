@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "title": "Financial Calculators | Prayaan Capital",
+    "description": "EMI calculator and foreclosure calculator for Prayaan Capital loan products.",
+    "ogImage": "/assets/images/hero/calculators-hero.jpg"
+  },
+  "sections": [
+    {
+      "type": "Hero",
+      "headline": "Financial Calculators",
+      "subheadline": "Plan your finances before you apply.",
+      "backgroundImage": "/assets/images/hero/calculators-hero.jpg"
+    },
+    {
+      "type": "EMICalculator",
+      "headline": "EMI Calculator",
+      "subheadline": "Calculate your monthly EMI for any loan amount, rate, and tenure.",
+      "defaults": {
+        "principal": 1000000,
+        "rate": 18,
+        "tenure": 36
+      }
+    },
+    {
+      "type": "EMICalculator",
+      "variant": "foreclosure",
+      "headline": "Foreclosure Calculator",
+      "subheadline": "Estimate your foreclosure amount including applicable charges.",
+      "defaults": {
+        "principal": 1000000,
+        "rate": 18,
+        "tenure": 36,
+        "emiPaid": 12
+      }
+    }
+  ]
+}

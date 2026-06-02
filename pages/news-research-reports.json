@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "title": "Research Reports | Prayaan Capital",
+    "description": "MSME sector research reports, market insights, and financial inclusion whitepapers from Prayaan Capital.",
+    "ogImage": "/assets/images/hero/research-hero.jpg"
+  },
+  "sections": [
+    {
+      "type": "Hero",
+      "headline": "Research & Insights",
+      "subheadline": "Data-driven perspectives on MSME finance and South Indian markets.",
+      "backgroundImage": "/assets/images/hero/research-hero.jpg"
+    },
+    {
+      "type": "DownloadsGrid",
+      "headline": "Research Reports",
+      "files": [
+        {
+          "title": "MSME Credit Gap in South India 2026",
+          "type": "PDF",
+          "size": "1.8 MB",
+          "href": "/assets/docs/research/msme-credit-gap-2026.pdf"
+        },
+        {
+          "title": "Financial Inclusion in Tier 2 Cities — Tamil Nadu",
+          "type": "PDF",
+          "size": "2.2 MB",
+          "href": "/assets/docs/research/financial-inclusion-tn-2025.pdf"
+        },
+        {
+          "title": "NBFC Technology Trends 2025",
+          "type": "PDF",
+          "size": "1.4 MB",
+          "href": "/assets/docs/research/nbfc-tech-trends-2025.pdf"
+        }
+      ]
+    }
+  ]
+}

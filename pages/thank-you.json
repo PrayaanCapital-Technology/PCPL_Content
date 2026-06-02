@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "title": "Thank You | Prayaan Capital",
+    "description": "Thank you for contacting Prayaan Capital. We will be in touch shortly.",
+    "ogImage": "/assets/images/hero/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "Hero",
+      "headline": "Thank You!",
+      "subheadline": "We've received your submission and will be in touch within 24 hours.",
+      "backgroundImage": "/assets/images/hero/og-default.jpg",
+      "badge": "Submitted Successfully"
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "full-width",
+      "headline": "What Happens Next?",
+      "bullets": [
+        {
+          "title": "Within 24 hours",
+          "body": "A relationship manager will call you on your registered mobile number."
+        },
+        {
+          "title": "Within 48 hours",
+          "body": "Initial eligibility assessment completed."
+        },
+        {
+          "title": "Document Collection",
+          "body": "Our team will guide you through the document submission process."
+        },
+        {
+          "title": "Credit Decision",
+          "body": "Loan sanction or decline communicated in writing."
+        }
+      ]
+    },
+    {
+      "type": "CTABanner",
+      "headline": "While You Wait",
+      "subheadline": "Calculate your EMI or read about our loan products.",
+      "ctaPrimary": {
+        "label": "EMI Calculator",
+        "href": "/customer/calculators"
+      },
+      "bgColor": "saffron",
+      "ctaSecondary": {
+        "label": "Our Products",
+        "href": "/products"
+      }
+    }
+  ]
+}

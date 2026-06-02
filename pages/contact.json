@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "title": "Contact Us | Prayaan Capital",
+    "description": "Get in touch with Prayaan Capital. Head office, branch addresses, phone, email, and enquiry form.",
+    "ogImage": "/assets/images/hero/contact-hero.jpg"
+  },
+  "sections": [
+    {
+      "type": "Hero",
+      "headline": "We're Here to Help",
+      "subheadline": "Speak with our team, visit a branch, or drop us a message.",
+      "backgroundImage": "/assets/images/hero/contact-hero.jpg"
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "text-left",
+      "headline": "Head Office",
+      "body": "Prayaan Capital Private Limited\nHead Office Address Line 1\nChennai – 600XXX\nTamil Nadu, India",
+      "details": [
+        {
+          "label": "Phone",
+          "value": "+91 XXXXX XXXXX"
+        },
+        {
+          "label": "Email",
+          "value": "info@prayaancapital.com"
+        },
+        {
+          "label": "Working Hours",
+          "value": "Mon–Sat, 9:30 AM – 6:00 PM"
+        },
+        {
+          "label": "CIN",
+          "value": "XXXXXXXXXXXXXXXXX"
+        }
+      ]
+    },
+    {
+      "type": "BranchLocator",
+      "headline": "Find Your Nearest Branch",
+      "ctaLabel": "Full Branch Directory",
+      "ctaHref": "/branches"
+    },
+    {
+      "type": "FormSection",
+      "headline": "Send Us a Message",
+      "fields": [
+        {
+          "name": "name",
+          "label": "Full Name",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "email",
+          "label": "Email",
+          "type": "email",
+          "required": true
+        },
+        {
+          "name": "phone",
+          "label": "Phone",
+          "type": "tel",
+          "required": true
+        },
+        {
+          "name": "subject",
+          "label": "Subject",
+          "type": "select",
+          "required": true,
+          "options": [
+            "Loan Enquiry",
+            "Existing Loan",
+            "Investor Enquiry",
+            "Partnership",
+            "Grievance",
+            "Other"
+          ]
+        },
+        {
+          "name": "message",
+          "label": "Message",
+          "type": "textarea",
+          "required": true
+        }
+      ],
+      "submitLabel": "Send Message",
+      "successRedirect": "/thank-you"
+    }
+  ]
+}

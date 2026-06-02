@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "title": "About Us | Prayaan Capital",
+    "description": "Learn about Prayaan Capital's mission to empower MSMEs with transparent, accessible credit across South India.",
+    "ogImage": "/assets/images/hero/about-hero.jpg"
+  },
+  "sections": [
+    {
+      "type": "Hero",
+      "headline": "Built for Bharat's Businesses",
+      "subheadline": "Our mission is simple — make formal credit accessible to every MSME, no matter the size or location.",
+      "backgroundImage": "/assets/images/hero/about-hero.jpg",
+      "badge": "Est. 2018",
+      "ctaPrimary": {
+        "label": "Our Products",
+        "href": "/products"
+      }
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "text-right",
+      "headline": "Our Story",
+      "body": "Prayaan Capital was founded in 2018 with a single conviction: the MSME segment in semi-urban South India was creditworthy but underserved. Traditional banks demanded collateral and documentation that small business owners simply could not provide. We built an NBFC that combines relationship banking with technology to bridge this gap."
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "text-left",
+      "headline": "Mission & Vision",
+      "body": "Mission: To be the most trusted lender for micro and small enterprises in South India, delivering credit that is fast, fair, and genuinely supportive of business growth.\n\nVision: A South India where every MSME owner — regardless of scale, gender, or location — has access to formal credit on transparent terms."
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "text-right",
+      "headline": "Core Values",
+      "bullets": [
+        {
+          "title": "Transparency",
+          "body": "No hidden fees. No surprise charges. Every term explained clearly."
+        },
+        {
+          "title": "Respect",
+          "body": "Every borrower is treated with dignity, regardless of loan size."
+        },
+        {
+          "title": "Reliability",
+          "body": "Consistent policies and dependable service across all branches."
+        },
+        {
+          "title": "Innovation",
+          "body": "Technology that serves people, not the other way around."
+        },
+        {
+          "title": "Inclusion",
+          "body": "Active focus on women entrepreneurs and first-time borrowers."
+        }
+      ]
+    },
+    {
+      "type": "MilestonesTimeline",
+      "headline": "Our Journey",
+      "milestones": [
+        {
+          "year": "2018",
+          "title": "Founded",
+          "body": "Prayaan Capital incorporated in Chennai, Tamil Nadu."
+        },
+        {
+          "year": "2019",
+          "title": "RBI Registration",
+          "body": "Received NBFC certificate of registration from RBI."
+        },
+        {
+          "year": "2020",
+          "title": "First 1,000 Loans",
+          "body": "Crossed 1,000 loan disbursals despite pandemic headwinds."
+        },
+        {
+          "year": "2022",
+          "title": "Expansion to AP & TG",
+          "body": "Opened operations in Andhra Pradesh and Telangana."
+        },
+        {
+          "year": "2024",
+          "title": "Tech Platform Launch",
+          "body": "Launched AI-native underwriting and digital KYC platform."
+        },
+        {
+          "year": "2026",
+          "title": "₹500 Cr+ Disbursed",
+          "body": "Crossed ₹500 Crore in cumulative loan disbursals."
+        }
+      ]
+    },
+    {
+      "type": "TrustStrip",
+      "stats": [
+        {
+          "value": "TN",
+          "label": "Tamil Nadu"
+        },
+        {
+          "value": "AP",
+          "label": "Andhra Pradesh"
+        },
+        {
+          "value": "TG",
+          "label": "Telangana"
+        },
+        {
+          "value": "50+",
+          "label": "Districts Covered"
+        }
+      ]
+    },
+    {
+      "type": "CTABanner",
+      "headline": "Join the Prayaan Capital Story",
+      "subheadline": "Whether you're a borrower, investor, or partner — we'd love to connect.",
+      "ctaPrimary": {
+        "label": "Contact Us",
+        "href": "/contact"
+      },
+      "bgColor": "saffron",
+      "ctaSecondary": {
+        "label": "View Careers",
+        "href": "/careers"
+      }
+    }
+  ]
+}

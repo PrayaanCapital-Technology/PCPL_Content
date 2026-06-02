@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "Loan Payments | Prayaan Capital",
+    "description": "Pay your Prayaan Capital loan EMI online via UPI, NEFT, RTGS, or set up auto-debit.",
+    "ogImage": "/assets/images/hero/payments-hero.jpg"
+  },
+  "sections": [
+    {
+      "type": "Hero",
+      "headline": "Easy, Secure Loan Payments",
+      "subheadline": "Multiple payment options for your convenience.",
+      "backgroundImage": "/assets/images/hero/payments-hero.jpg"
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "text-left",
+      "headline": "Payment Methods",
+      "bullets": [
+        {
+          "title": "UPI",
+          "body": "Pay via PhonePe, Google Pay, or any UPI app. UPI ID: prayaancapital@bankname"
+        },
+        {
+          "title": "NEFT / RTGS",
+          "body": "Account Name: Prayaan Capital Pvt Ltd | A/c: XXXXXXXXXXXX | IFSC: XXXXXX | Bank: [Bank Name], Chennai"
+        },
+        {
+          "title": "Auto-debit (NACH)",
+          "body": "Set up standing instructions for automatic monthly EMI deduction. Contact your branch to register."
+        },
+        {
+          "title": "Cheque / DD",
+          "body": "Payable to 'Prayaan Capital Private Limited'. Drop at your nearest branch."
+        }
+      ]
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "text-right",
+      "headline": "Payment Schedule & Receipts",
+      "body": "EMI due date is the same date every month as per your sanction letter. Receipts sent within 24 hours of credit.",
+      "bullets": [
+        {
+          "title": "Grace Period",
+          "body": "3 days from EMI due date before penal interest applies."
+        },
+        {
+          "title": "Receipts",
+          "body": "Sent via SMS and email. Download from your loan statement."
+        },
+        {
+          "title": "Foreclosure",
+          "body": "Contact your relationship manager for a foreclosure statement."
+        }
+      ]
+    }
+  ]
+}

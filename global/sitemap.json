@@ -1,0 +1,158 @@
+{
+  "nav": [
+    {
+      "label": "Home",
+      "path": "/",
+      "pageJson": "home"
+    },
+    {
+      "label": "About",
+      "path": "/about",
+      "pageJson": "about"
+    },
+    {
+      "label": "Products",
+      "path": "/products",
+      "pageJson": "products",
+      "children": [
+        {
+          "label": "Secured Business Loans",
+          "path": "/products/secured-business-loans",
+          "pageJson": "products-secured-business-loans"
+        },
+        {
+          "label": "LAP-Style Financing",
+          "path": "/products/lap-financing",
+          "pageJson": "products-lap-financing"
+        }
+      ]
+    },
+    {
+      "label": "Why Prayaan",
+      "path": "/why-prayaan",
+      "pageJson": "why-prayaan"
+    },
+    {
+      "label": "Investors",
+      "path": "/investors",
+      "pageJson": "investors"
+    },
+    {
+      "label": "Leadership",
+      "path": "/leadership",
+      "pageJson": "leadership"
+    },
+    {
+      "label": "Customer",
+      "path": "/customer",
+      "pageJson": "customer",
+      "children": [
+        {
+          "label": "Payments",
+          "path": "/customer/payments",
+          "pageJson": "customer-payments"
+        },
+        {
+          "label": "Grievance",
+          "path": "/customer/grievance",
+          "pageJson": "customer-grievance"
+        },
+        {
+          "label": "Calculators",
+          "path": "/customer/calculators",
+          "pageJson": "customer-calculators"
+        }
+      ]
+    },
+    {
+      "label": "News",
+      "path": "/news",
+      "pageJson": "news",
+      "children": [
+        {
+          "label": "Media Publications",
+          "path": "/news/media-publications",
+          "pageJson": "news-media-publications"
+        },
+        {
+          "label": "Research Reports",
+          "path": "/news/research-reports",
+          "pageJson": "news-research-reports"
+        },
+        {
+          "label": "Press Releases",
+          "path": "/news/press-releases",
+          "pageJson": "news-press-releases"
+        }
+      ]
+    },
+    {
+      "label": "Careers",
+      "path": "/careers",
+      "pageJson": "careers"
+    },
+    {
+      "label": "Contact",
+      "path": "/contact",
+      "pageJson": "contact"
+    }
+  ],
+  "footer": [
+    {
+      "label": "Apply Now",
+      "path": "/apply"
+    },
+    {
+      "label": "Branch Locator",
+      "path": "/branches"
+    },
+    {
+      "label": "FAQ",
+      "path": "/faq"
+    },
+    {
+      "label": "Downloads",
+      "path": "/downloads"
+    },
+    {
+      "label": "Success Stories",
+      "path": "/success-stories"
+    },
+    {
+      "label": "Technology",
+      "path": "/technology"
+    },
+    {
+      "label": "Partnerships",
+      "path": "/partnerships"
+    },
+    {
+      "label": "ESG & Impact",
+      "path": "/esg"
+    },
+    {
+      "label": "RBI Disclosures",
+      "path": "/rbi-disclosures"
+    },
+    {
+      "label": "Privacy Policy",
+      "path": "/privacy-policy"
+    },
+    {
+      "label": "Terms & Conditions",
+      "path": "/terms"
+    },
+    {
+      "label": "Grievance Redressal",
+      "path": "/grievance"
+    },
+    {
+      "label": "Fair Practice Code",
+      "path": "/fair-practice-code"
+    },
+    {
+      "label": "Interest Rate Policy",
+      "path": "/interest-rate-policy"
+    }
+  ]
+}

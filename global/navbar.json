@@ -1,0 +1,13 @@
+{
+  "announcementBar": {
+    "enabled": true,
+    "text": "Now offering Secured Business Loans in Telangana. Apply today!",
+    "ctaLabel": "Apply Now",
+    "ctaHref": "/apply",
+    "bgColor": "#0F6E56"
+  },
+  "cta": {
+    "label": "Apply Now",
+    "href": "/apply"
+  }
+}

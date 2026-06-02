@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "title": "Fair Practice Code | Prayaan Capital",
+    "description": "Prayaan Capital's Fair Practice Code as per RBI Master Directions for NBFCs.",
+    "ogImage": "/assets/images/hero/compliance-hero.jpg"
+  },
+  "sections": [
+    {
+      "type": "Hero",
+      "headline": "Fair Practice Code",
+      "subheadline": "As per RBI Master Directions — Non-Banking Financial Companies. Last reviewed: 01 April 2026.",
+      "backgroundImage": "/assets/images/hero/compliance-hero.jpg"
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "full-width",
+      "headline": "1. Loan Applications & Processing",
+      "body": "All loan application forms include a checklist of required documents. Prayaan Capital will provide a written acknowledgement of receipt of every application. If a loan is rejected, the applicant will be informed in writing with the reason."
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "full-width",
+      "headline": "2. Loan Appraisal & Terms",
+      "body": "Prayaan Capital conducts a fair and objective credit appraisal. The sanction letter will clearly state the loan amount, interest rate (annualised), tenure, all fees, EMI schedule, and prepayment terms. Borrowers must acknowledge terms before disbursement."
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "full-width",
+      "headline": "3. Disbursement",
+      "body": "Disbursements are made only after all documentation is complete and KYC is verified. Any changes to disbursement terms must be communicated and acknowledged in writing by the borrower."
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "full-width",
+      "headline": "4. Recovery Practices",
+      "body": "Prayaan Capital follows humane and lawful recovery practices. Recovery agents hold identity cards issued by Prayaan Capital. Recovery calls are made only between 7 AM and 7 PM. Harassment of any kind is strictly prohibited."
+    },
+    {
+      "type": "ContentBlock",
+      "layout": "full-width",
+      "headline": "5. Grievance Mechanism",
+      "body": "All borrowers have the right to raise grievances. The escalation matrix and Nodal Officer details are published on our website and provided in the loan agreement. Unresolved grievances may be escalated to the RBI Ombudsman."
+    }
+  ]
+}
