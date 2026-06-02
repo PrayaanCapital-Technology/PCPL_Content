@@ -51,7 +51,7 @@
           "description": "For MSMEs in manufacturing, trading, and services — micro and small segment focus.",
           "interestRange": "16% – 24% p.a.",
           "tenureRange": "12 – 60 months",
-          "icon": "/assets/images/products/secured-loan.svg",
+          "icon": "/assets/images/products/secured-loan.png",
           "href": "/products/secured-business-loans"
         },
         {
@@ -59,7 +59,7 @@
           "description": "Long-term loans secured by commercial or residential property.",
           "interestRange": "14% – 20% p.a.",
           "tenureRange": "36 – 120 months",
-          "icon": "/assets/images/products/lap.svg",
+          "icon": "/assets/images/products/lap.png",
           "href": "/products/lap-financing"
         }
       ]
